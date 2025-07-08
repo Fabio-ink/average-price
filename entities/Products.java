@@ -1,4 +1,4 @@
-Package entities;
+package entities;
 
 public class Products {
 
